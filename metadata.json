@@ -1,0 +1,6 @@
+{
+  "name": "KinoFlow Enterprise — Автономный ИИ-конвейер видео и YouTube деплоя",
+  "description": "Масштабируемая enterprise-платформа для автоматической генерации ИИ-видео (Анекдоты, Новости, Фильмы) со сценарным DAG-пайплайном, синтезом речи, рендерингом и авто-деплоем на YouTube.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
